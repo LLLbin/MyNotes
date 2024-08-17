@@ -1,5 +1,5 @@
 # Python
 
-### [Data Structure](data_structure\data_structure.md)
+### [Data Structure](data_structure/data_structure.md)
 
-### [Pytorch](pytorch\pytorch.md)
+### [Pytorch](pytorch/pytorch.md)
