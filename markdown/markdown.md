@@ -62,7 +62,7 @@
 
 ### 5. 图片 (Images)
 
-使用 `![alt 文本](图片链接)` 插入图片。
+使用 `![文本](图片链接)` 插入图片。
 
 ```markdown
 ![text](https://markdown-here.com/img/icon256.png)

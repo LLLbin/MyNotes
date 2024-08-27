@@ -8,6 +8,7 @@ Learning is the happiest thing in the world
 
 - [English](english/english.md)
 - [Interview](interview/interview.md)
+- [Workout](workout/workout.md)
 
 ### Research
 

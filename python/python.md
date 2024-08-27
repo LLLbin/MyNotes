@@ -2,4 +2,6 @@
 
 ### [Data Structure](data_structure/data_structure.md)
 
-### [Pytorch](pytorch/pytorch.md)
+### [Machine Learning](machine_learning/machine_learning.md)
+
+### [Deep Learning](deep_learning/deep_learning.md)

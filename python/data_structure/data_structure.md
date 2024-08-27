@@ -2,9 +2,9 @@
 
 ### [String](string.md)
 
-### [List &amp; Tuple](list_tuple.md)
+### [List & Tuple](list_tuple.md)
 
-### [Stack &amp; Queue](stack_queue.md)
+### [Stack & Queue](stack_queue.md)
 
 ### [Set](set.md)
 

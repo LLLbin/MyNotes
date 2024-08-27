@@ -3,24 +3,32 @@
 ### 0. 创建
 
 - 一维
-  ```python
-  list = []
-  list = [1, 2, 3, 4, 5]
-  list = list((1, 2, 3, 4, 5))
-  list = [0] * 5 # [0, 0, 0, 0, 0]
-  list = [i for i in range(5)] # [0, 1, 2, 3, 4]
-  list = [int(n) for n in str(num)] # 切分num成一个列表 123 -> [1, 2, 3]
-  ```
-- 二维
-  ```python
-  matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
-  matrix = [[0 for _ in range(3)] for _ in range(3)] # 创建3x3全0矩阵
-  matrix = [[0] * 3 for _ in range(3)] # 创建3x3全0矩阵
 
-  # 取矩阵的列
-  for col in zip(*grid):
-      print(list(col))
-  ```
+```py
+list = []
+list = [1, 2, 3, 4, 5]
+list = list((1, 2, 3, 4, 5))
+list = [0] * 5 # [0, 0, 0, 0, 0]
+list = [i for i in range(5)] # [0, 1, 2, 3, 4]
+list = [int(n) for n in str(num)] # 切分num成一个列表 123 -> [1, 2, 3]
+```
+
+
+
+- 二维
+
+```py
+matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+matrix = [[0 for _ in range(3)] for _ in range(3)] # 创建3x3全0矩阵
+matrix = [[0] * 3 for _ in range(3)] # 创建3x3全0矩阵
+# 取矩阵的列
+for col in zip(*grid):
+	print(list(col))
+```
+
+
+
+
 
 ### 1. 添加
 
