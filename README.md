@@ -6,16 +6,18 @@ Learning is the happiest thing in the world
 
 ### Life
 
-- [English](english/english.md)
-- [Interview](interview/interview.md)
-- [Workout](workout/workout.md)
+- [English](life/english/english.md)
+- [Interview](life/interview/interview.md)
+- [Workout](life/workout/workout.md)
 
 ### Research
 
-- [Markdown](markdown/markdown.md)
-- [Zotero](zotero/zotero.md)
+- [Markdown](research/markdown/markdown.md)
+- [Zotero](research/zotero/zotero.md)
 
 ### Code
 
-- [Python](python/python.md)
-- [Go](go/go.md)
+- [Python](code/python/python.md)
+- [Go](code/go/go.md)
+- [cpp](code/cpp/cpp.md)
+
