@@ -151,3 +151,11 @@ $$
 ```markdown
 [toc]
 ```
+
+### 13. 美人鱼图 (Mermaid)
+
+使用插入Mermaid代码来快捷加入图表。
+
+[官网文档](https://mermaid.js.org/intro/)
+
+[在线编辑器](https://mermaid.live/edit)

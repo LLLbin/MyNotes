@@ -19,5 +19,5 @@ Learning is the happiest thing in the world
 
 - [Python](code/python/python.md)
 - [Go](code/go/go.md)
-- [cpp](code/cpp/cpp.md)
+- [C++](code/cpp/cpp.md)
 
