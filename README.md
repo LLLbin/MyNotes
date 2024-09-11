@@ -10,14 +10,14 @@ Learning is the happiest thing in the world
 - [Interview](life/interview/interview.md)
 - [Workout](life/workout/workout.md)
 
-### Research
+### Tool
 
-- [Markdown](research/markdown/markdown.md)
-- [Zotero](research/zotero/zotero.md)
+- [Markdown](tool/markdown/markdown.md)
+- [Zotero](tool/zotero/zotero.md)
 
-### Code
+### Learning
 
-- [Python](code/python/python.md)
-- [Go](code/go/go.md)
-- [C++](code/cpp/cpp.md)
-
+- [Python](learning/python/python.md)
+- [Go](learning/go/go.md)
+- [C++](learning/cpp/cpp.md)
+- [FFmpeg](learning/ffmpeg/ffmpeg.md)
